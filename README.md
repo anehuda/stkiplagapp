@@ -1,0 +1,2 @@
+# stkiplagapp
+Sistem Pendeteksi Plagiarisme
