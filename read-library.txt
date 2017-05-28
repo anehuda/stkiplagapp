@@ -1,0 +1,5 @@
+library Lucene
+https://drive.google.com/file/d/0B3RKEvQJYFtlYXNsQVk3NmhGS3c/view?usp=sharing
+
+library Tika Apache
+https://drive.google.com/file/d/0B3RKEvQJYFtlelZRSFZNYlJpNkU/view?usp=sharing
